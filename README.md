@@ -1,8 +1,14 @@
 ### Hi there 👋
 
+## Hello my name is Adolfo Flores Hernandez i am student from Tecnologico De Estudios Superiores de Jilotepec
+## i am my preparing to be computer system engineer
+
+I am still preparing to learn this English language, that is why I write something basic
+I like working with Python and I love learning about technologies so I am in the learning process but the important thing is that I like this branch of programming
 <!--
 **AdolfoFloresHdz/AdolfoFloresHdz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+Hello my name is Adolfo Flores Hernandez i am student from Tecnologico De Estudios Superiores de Jilotepec
+i am my prepa
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
