@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hola 👋, soy **Adolfo Flores Hernández**, Ingeniero en Sistemas Computacionales egresado del Tecnológico de Estudios Superiores de Jilotepec, con especialidad en Cloud Computing.
  
-Apasionado por el desarrollo backend, la automatización de procesos y el procesamiento de datos. Actualmente enfocado en **Python**, **FastAPI** y **Machine Learning aplicado**.
+Apasionado por el desarrollo backend, la automatización de procesos y el procesamiento de datos. Actualmente enfocado en **Python**, **FastAPI** y lo mas basico de  **Machine Learning aplicado**.
  
 Vengo de más de un año de experiencia real en backend, construyendo APIs, automatizando flujos y resolviendo problemas de negocio con código.
  
@@ -20,7 +20,7 @@ Vengo de más de un año de experiencia real en backend, construyendo APIs, auto
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
  
 > También he trabajado con: pandas, NumPy, Matplotlib, scikit-learn, reportlab y WordPress/WooCommerce.
  
